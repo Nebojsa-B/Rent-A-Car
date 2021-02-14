@@ -1,0 +1,33 @@
+﻿Ime-> Nebojša,
+Prezime-> Bosijok
+Jmbg-> 2305998850099
+Broj Telefona-> 0652321007
+Lokacija Preuzimanja-> Trg Republike Srbije
+Lokacija Vracanja-> Aerodrom Nikola Tesla
+Datum Preuzimanja-> 15.10
+Na Koliko Dana-> 14
+Marka->Mazda
+Cena-> 42 eura
+------------------------------------------------------------------------
+Ime-> Petar,
+Prezime-> Petrović
+Jmbg-> 1234453245324
+Broj Telefona-> 0631234122
+Lokacija Preuzimanja-> Kneza Milosa 33
+Lokacija Vracanja-> Nebojsina 72
+Datum Preuzimanja-> 18.11
+Na Koliko Dana-> 20
+Marka->Jeep
+Cena-> 120 eura
+------------------------------------------------------------------------
+Ime-> zsdgdfs,
+Prezime-> gsfgsd
+Jmbg-> 1111111111111
+Broj Telefona-> 234123
+Lokacija Preuzimanja-> Nebojsina 72
+Lokacija Vracanja-> Aerodrom Nikola Tesla
+Datum Preuzimanja-> 12.12
+Na Koliko Dana-> 7
+Marka->Volkswagen
+Cena-> 14 eura
+------------------------------------------------------------------------
